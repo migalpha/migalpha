@@ -26,7 +26,7 @@ Here are some ideas to get you started:-->
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-181717?style=flat-square&logo=elasticsearch)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-181717?style=flat-square&logo=kubernetes)
-![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
 
 ## ✉️ Let's get in touch
