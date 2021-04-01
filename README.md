@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miguel, I'm Caracas, Venezuela but currently I live in Viña del Mar, Chile
+My name is Miguel, I'm from Caracas, Venezuela but currently I live in Viña del Mar, Chile
 
 <!--
 **migalpha/migalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
