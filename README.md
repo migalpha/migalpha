@@ -7,8 +7,8 @@ My name is Miguel, I'm from Caracas, Venezuela but currently I live in Viña del
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently looking for a new job, 100% remote
-- 🌱 I’m currently learning about blockchain, dapps, defi and NFT
+- 🔭 I’m currently looking for a new job (I'm considering only 100% remote positions)
+- 🌱 I’m currently learning about RUST programming language and topic related to blockchain as (dapps, defi, NFT) 
 - 👯 I’m looking to collaborate on open source projects or meetup groups
 - 🤔 I’m looking for help with blockchain
 - 💬 Ask me about Golang, Python, PHP, SQL, NoSQL and Docker
