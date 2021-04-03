@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-My name is Miguel, I'm from Caracas, Venezuela but currently I live in Viña del Mar, Chile
+My name is Miguel, I'm from Caracas, Venezuela, I'm currently living in Viña del Mar, Chile.
+<br>
+Admin of [Viña Beach Coders](https://www.meetup.com/es-ES/Vina-Beach-Coders)
 
 <!--
 **migalpha/migalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently looking for a new job (I'm considering only 100% remote positions)
+- 🔭 I’m currently looking for a new job (I'm considering only 100% remote positions) and build collaborative devs communities
 - 🌱 I’m currently learning about RUST programming language and topic related to blockchain as (dapps, defi, NFT) 
 - 👯 I’m looking to collaborate on open source projects or meetup groups
 - 🤔 I’m looking for help with blockchain
@@ -28,6 +30,10 @@ Here are some ideas to get you started:-->
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-181717?style=flat-square&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
+
+## 🍕💻 Community
+
+[![Meetup Badge](https://img.shields.io/badge/-Vi%C3%B1a%20Beach%20Coders-f64060?style=flat-square&logo=meetup)](https://www.meetup.com/es-ES/Vina-Beach-Coders)
 
 ## ✉️ Let's get in touch
 
