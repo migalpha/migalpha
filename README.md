@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miguel, I'm from Caracas, Venezuela, I'm currently living in Viña del Mar, Chile.
+My name is Miguel, I'm from Caracas 🇻🇪, I'm currently living in Viña del Mar 🇨🇱.
 <br>
 Admin of [Viña Beach Coders](https://www.meetup.com/es-ES/Vina-Beach-Coders)
 
