@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-My name is Miguel, I'm from Caracas 🇻🇪, I'm currently living in Viña del Mar 🇨🇱.
+My name is Miguel, I'm from Caracas 🇻🇪, I'm based in Las Palmas de Gran Canaria 🇮🇨.
 <br>
-Admin of [Viña Beach Coders](https://www.meetup.com/es-ES/Vina-Beach-Coders)
+Admin of [Golang Gran Canaria](https://www.meetup.com/es-ES/golang-gran-canaria/)
 
 <!--
 **migalpha/migalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently looking for a new job (I'm considering only 100% remote positions) and build collaborative devs communities
+- 🔭 I’m currently looking to build collaborative devs communities
 - 🌱 I’m currently learning about RUST programming language and topic related to blockchain as (dapps, defi, NFT) 
 - 👯 I’m looking to collaborate on open source projects or meetup groups
 - 🤔 I’m looking for help with blockchain
@@ -33,12 +33,12 @@ Here are some ideas to get you started:-->
 
 ## 🍕💻 Community
 
-[![Meetup Badge](https://img.shields.io/badge/-Vi%C3%B1a%20Beach%20Coders-f64060?style=flat-square&logo=meetup)](https://www.meetup.com/es-ES/Vina-Beach-Coders)
+[![Meetup Badge](https://img.shields.io/badge/-Vi%C3%B1a%20Beach%20Coders-f64060?style=flat-square&logo=meetup)](https://www.meetup.com/es-ES/golang-gran-canaria/)
 
 ## ✉️ Let's get in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-miguelgil21-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelgil21/?locale=en_US/)](https://www.linkedin.com/in/miguelgil21/?locale=en_US)
-[![Phone Badge](https://img.shields.io/badge/-+56951248801-purple?style=flat-square&logo=phone&logoColor=white&link=tel:+56951248801)](tel:+56951248801)
+[![Phone Badge](https://img.shields.io/badge/-+34629355156-purple?style=flat-square&logo=phone&logoColor=white&link=tel:+34629355156)](tel:+34629355156)
 [![Gmail Badge](https://img.shields.io/badge/-migilgil21@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:migilgil21@gmail.com)](mailto:migilgil21@gmail.com)
 
 ⭐️ From [migalpha](https://github.com/migalpha)
