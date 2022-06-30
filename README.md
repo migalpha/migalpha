@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Miguel, I'm from Caracas 🇻🇪, I'm based in Las Palmas de Gran Canaria 🇮🇨.
+My name is Miguel, I'm from Caracas ![Venezuela](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ve.png "Venezuela"), I'm based in Las Palmas de Gran Canaria ![Canary Islands](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/es/canary_islands.png "Canary Islands").
 <br>
 Admin of [Golang Gran Canaria](https://www.meetup.com/es-ES/golang-gran-canaria/)
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:-->
 
 ## 🍕💻 Community
 
-[![Meetup Badge](https://img.shields.io/badge/-Vi%C3%B1a%20Beach%20Coders-f64060?style=flat-square&logo=meetup)](https://www.meetup.com/es-ES/golang-gran-canaria/)
+[![Meetup Badge](https://img.shields.io/badge/-Golang%20Gran%20Canaria-f64060?style=flat-square&logo=meetup)](https://www.meetup.com/es-ES/golang-gran-canaria/)
 
 ## ✉️ Let's get in touch
 
